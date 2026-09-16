@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Class Storage</title>
+<meta name="description" content="Semester and course file explorer for class study resources." />
+<link rel="icon" href="LOGO.png" />
+<meta name="theme-color" content="#1a1a1a" />
+<link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+
+  <header class="topbar">
+    <a href="#/" class="brand" aria-label="Class Storage home">
+      <img src="LOGO.png" alt="ACV x GCUF — BS Computer Science, 2025–2029" />
+      <span id="siteName" class="sr-only">Class Storage</span>
+    </a>
+
+    <div class="search-field">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <input id="searchInput" type="text" placeholder="Filter this folder" autocomplete="off" />
+    </div>
+  </header>
+
+  <nav class="breadcrumb" id="breadcrumb" aria-label="Breadcrumb"></nav>
+
+  <main>
+    <div class="listing" id="listing"></div>
+  </main>
+
+  <footer>
+    Files served directly from this repository's <code>storage</code> folder via the GitHub API.
+  </footer>
+
+  <div class="drawer-scrim" id="drawerScrim"></div>
+  <aside class="drawer" id="drawer" aria-hidden="true">
+    <div class="drawer-head">
+      <div>
+        <p class="drawer-name" id="drawerName">&nbsp;</p>
+        <p class="drawer-sub" id="drawerSub">&nbsp;</p>
+      </div>
+      <button class="icon-btn drawer-close" id="drawerClose" aria-label="Close preview">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><line x1="5" y1="5" x2="19" y2="19"/><line x1="19" y1="5" x2="5" y2="19"/></svg>
+      </button>
+    </div>
+    <div class="drawer-body">
+      <div class="drawer-preview" id="drawerPreview"></div>
+      <div class="drawer-actions">
+        <a class="btn btn-primary" id="drawerDownload" download>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="M7 10l5 5 5-5"/><path d="M5 21h14"/></svg>
+          Download
+        </a>
+        <a class="btn" id="drawerOpenTab" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M14 3h7v7"/><path d="M10 14 21 3"/><path d="M21 14v5a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2h5"/></svg>
+          Open in new tab
+        </a>
+      </div>
+    </div>
+  </aside>
+
+  <script src="assets/js/app.js"></script>
+</body>
+</html>
