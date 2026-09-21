@@ -1,0 +1,5 @@
+Week 1 notes
+============
+- What is a computer?
+- Hardware vs software
+- Number systems

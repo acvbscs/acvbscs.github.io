@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ACV X GCUF · BS Computer Science 2025–2029</title>
+  <meta name="description" content="Course files for BS Computer Science 2025–2029, organised by semester. Read online or download.">
+  <meta name="theme-color" content="#1A1A1A">
+  <link rel="icon" type="image/png" href="assets/favicon.png">
+  <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <div class="app">
+    <header class="topbar">
+      <button class="icon-btn menu-btn" id="menu-btn" aria-label="Open folders" aria-controls="sidebar" aria-expanded="false">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+      </button>
+      <a class="brand" href="#/" aria-label="ACV X GCUF, home">
+        <img src="assets/logo-mark.png" alt="" width="32" height="32">
+        <span>ACV X GCUF</span>
+      </a>
+      <form class="search" role="search" onsubmit="return false">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4.5 4.5"/></svg>
+        <input id="search" type="search" placeholder="Search files and folders" aria-label="Search files and folders" autocomplete="off" spellcheck="false">
+        <kbd aria-hidden="true">/</kbd>
+      </form>
+    </header>
+
+    <aside class="sidebar" id="sidebar" aria-label="Folders">
+      <nav id="tree"></nav>
+    </aside>
+    <div class="scrim" id="scrim" hidden></div>
+
+    <main class="main" id="main" tabindex="-1">
+      <div class="page" id="page">
+        <p class="state">Loading files…</p>
+      </div>
+    </main>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+  <noscript><p class="state">This site needs JavaScript to browse files.</p></noscript>
+  <script src="assets/app.js"></script>
+</body>
+</html>
