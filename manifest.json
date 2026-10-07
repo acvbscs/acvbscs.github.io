@@ -132,6 +132,24 @@
   "mtime": "2026-10-08T03:16:12+05:00"
  },
  {
+  "path": "Semester 3/CCC-401 Data Structures/Lecture 01 | Data Structures - Introduction to Data Structures and Arrays.pdf",
+  "dir": false,
+  "size": 651541,
+  "mtime": "2026-10-08T03:19:16+05:00"
+ },
+ {
+  "path": "Semester 3/CCC-401 Data Structures/Lecture 02 | Searching Algorithms - Linear Search and Binary Search.pdf",
+  "dir": false,
+  "size": 672916,
+  "mtime": "2026-10-08T03:19:16+05:00"
+ },
+ {
+  "path": "Semester 3/CCC-401 Data Structures/Lecture 03 | Sorting Algorithms - Bubble, Selection, Insertion, Merge and Quick Sort.pdf",
+  "dir": false,
+  "size": 647071,
+  "mtime": "2026-10-08T03:19:16+05:00"
+ },
+ {
   "path": "Semester 3/CCC-407 Computer Networks/.gitkeep",
   "dir": false,
   "size": 0,
