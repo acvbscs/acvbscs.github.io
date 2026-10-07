@@ -1,0 +1,374 @@
+[
+ {
+  "path": "Archive/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-06T03:54:01.187906+00:00"
+ },
+ {
+  "path": "Semester 1/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-06T03:54:00.447747+00:00"
+ },
+ {
+  "path": "Semester 1/CCC-301 Programming Fundamentals/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:16.160715+00:00"
+ },
+ {
+  "path": "Semester 1/CGE-301 Application of Information and Communication Technologies/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:16.298343+00:00"
+ },
+ {
+  "path": "Semester 1/ENG-321 Functional English/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:16.444003+00:00"
+ },
+ {
+  "path": "Semester 1/ISL-321 Islamic Studies/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:16.865054+00:00"
+ },
+ {
+  "path": "Semester 1/ISL-322 Ethics (Non-Muslims)/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:17.001042+00:00"
+ },
+ {
+  "path": "Semester 1/MTH-111 Basic Math I (Pre-Medical)/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:17.227798+00:00"
+ },
+ {
+  "path": "Semester 1/MTH-323 Calculus and Analytic Geometry/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:16.572065+00:00"
+ },
+ {
+  "path": "Semester 1/PHY-321 Applied Physics/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:16.714938+00:00"
+ },
+ {
+  "path": "Semester 1/THQ-I Teaching of Holy Quran I/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:17.113836+00:00"
+ },
+ {
+  "path": "Semester 2/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-06T03:54:00.528617+00:00"
+ },
+ {
+  "path": "Semester 2/CCC-302 Object Oriented Programming/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:17.442484+00:00"
+ },
+ {
+  "path": "Semester 2/CCC-304 Database Systems/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:17.583179+00:00"
+ },
+ {
+  "path": "Semester 2/CCC-306 Digital Logic Design/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:17.698245+00:00"
+ },
+ {
+  "path": "Semester 2/ENG-322 Expository Writing/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:17.848899+00:00"
+ },
+ {
+  "path": "Semester 2/MTH-112 Basic Math II (Pre-Medical)/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:18.251193+00:00"
+ },
+ {
+  "path": "Semester 2/MTH-324 Multivariable Calculus/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:17.971567+00:00"
+ },
+ {
+  "path": "Semester 2/PST-321 Pakistan Studies/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:18.127302+00:00"
+ },
+ {
+  "path": "Semester 3/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-06T03:54:00.629355+00:00"
+ },
+ {
+  "path": "Semester 3/BAM-601 Entrepreneurship/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:19.062858+00:00"
+ },
+ {
+  "path": "Semester 3/CCC-401 Data Structures/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:18.423919+00:00"
+ },
+ {
+  "path": "Semester 3/CCC-407 Computer Networks/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:18.579397+00:00"
+ },
+ {
+  "path": "Semester 3/ICP-321 Ideology and Constitution of Pakistan/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:18.948064+00:00"
+ },
+ {
+  "path": "Semester 3/QTR-422 Discrete Structures/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:18.685277+00:00"
+ },
+ {
+  "path": "Semester 3/STA-328 Probability and Statistics/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:18.813919+00:00"
+ },
+ {
+  "path": "Semester 3/THQ-II Teaching of Holy Quran II/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:19.226948+00:00"
+ },
+ {
+  "path": "Semester 4/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-06T03:54:00.720342+00:00"
+ },
+ {
+  "path": "Semester 4/BAM-301 Introduction to Management/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:20.080494+00:00"
+ },
+ {
+  "path": "Semester 4/CCC-402 Computer Organization and Assembly Language/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:19.398610+00:00"
+ },
+ {
+  "path": "Semester 4/CCC-403 Information Security/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:19.553874+00:00"
+ },
+ {
+  "path": "Semester 4/CCC-409 Software Engineering/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:19.649335+00:00"
+ },
+ {
+  "path": "Semester 4/CCE-421 Civics and Community Engagement/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:20.181246+00:00"
+ },
+ {
+  "path": "Semester 4/ENG-422 Technical and Business Writing/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:19.919342+00:00"
+ },
+ {
+  "path": "Semester 4/MTH-424 Linear Algebra/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:19.793866+00:00"
+ },
+ {
+  "path": "Semester 5/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-06T03:54:00.810005+00:00"
+ },
+ {
+  "path": "Semester 5/CCC-501 Operating Systems/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:20.410950+00:00"
+ },
+ {
+  "path": "Semester 5/CCC-601 Analysis of Algorithms/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:20.535026+00:00"
+ },
+ {
+  "path": "Semester 5/CSI-417 Advanced Database Management Systems/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:20.672992+00:00"
+ },
+ {
+  "path": "Semester 5/CSI-503 Theory of Automata/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:20.806393+00:00"
+ },
+ {
+  "path": "Semester 5/CSI-513 Mobile Application Development/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:20.952753+00:00"
+ },
+ {
+  "path": "Semester 5/CSI-517 Advanced Programming/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:21.078578+00:00"
+ },
+ {
+  "path": "Semester 5/THQ-III Teaching of Holy Quran III/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:21.220104+00:00"
+ },
+ {
+  "path": "Semester 6/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-06T03:54:00.888064+00:00"
+ },
+ {
+  "path": "Semester 6/CCC-405 Artificial Intelligence/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:21.385863+00:00"
+ },
+ {
+  "path": "Semester 6/CSI-504 Parallel and Distributed Computing/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:21.537577+00:00"
+ },
+ {
+  "path": "Semester 6/CSI-506 Computer Architecture/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:21.680435+00:00"
+ },
+ {
+  "path": "Semester 6/CSI-510 Compiler Construction/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:21.823917+00:00"
+ },
+ {
+  "path": "Semester 6/CSI-512 Web Engineering/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:21.987825+00:00"
+ },
+ {
+  "path": "Semester 6/CSI-516 Software Testing/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:22.137247+00:00"
+ },
+ {
+  "path": "Semester 7/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-06T03:54:00.966810+00:00"
+ },
+ {
+  "path": "Semester 7/CCC-631 Final Year Project I/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:22.820472+00:00"
+ },
+ {
+  "path": "Semester 7/CSI-603 Introduction to Data Science/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:22.348139+00:00"
+ },
+ {
+  "path": "Semester 7/CSI-607 Digital Image Processing/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:22.445478+00:00"
+ },
+ {
+  "path": "Semester 7/CSI-609 Cloud Computing/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:22.593315+00:00"
+ },
+ {
+  "path": "Semester 7/CSI-611 Human-Computer Interaction and Computer Graphics/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:22.700757+00:00"
+ },
+ {
+  "path": "Semester 7/INT-631 Internship/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:22.920693+00:00"
+ },
+ {
+  "path": "Semester 7/THQ-IV Teaching of Holy Quran IV/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:23.068894+00:00"
+ },
+ {
+  "path": "Semester 8/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-06T03:54:01.076879+00:00"
+ },
+ {
+  "path": "Semester 8/CCC-632 Final Year Project II/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:23.386142+00:00"
+ },
+ {
+  "path": "Semester 8/CSI-606 Professional Practices/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:23.279666+00:00"
+ },
+ {
+  "path": "Semester 8/ESC-614 Marketing and Social Media in the Digital World/.gitkeep",
+  "dir": false,
+  "size": 0,
+  "mtime": "2026-10-07T05:29:23.543903+00:00"
+ }
+]

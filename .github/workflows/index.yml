@@ -1,0 +1,21 @@
+name: Update file index
+on:
+  push:
+    paths: ['storage/**']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  index:
+    if: ${{ !startsWith(github.event.head_commit.message, '[admin] ') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - run: python3 .github/scripts/build_manifest.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add manifest.json
+          git diff --cached --quiet || (git commit -m "Update file index" && git push origin HEAD:${{ github.ref_name }})
