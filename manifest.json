@@ -6,34 +6,34 @@
   "mtime": "2026-10-08T03:16:12+05:00"
  },
  {
-  "path": "Archive/CLASS SCHEDULE.pdf",
-  "dir": false,
-  "size": 636006,
-  "mtime": "2026-10-08T13:17:22+05:00"
- },
- {
-  "path": "Archive/Library/.gitkeep",
+  "path": "Archive/Books/.gitkeep",
   "dir": false,
   "size": 0,
   "mtime": "2026-10-23T05:26:36+05:00"
  },
  {
-  "path": "Archive/Library/Python Crash Course, 3rd Edition by Eric Matthes.pdf",
+  "path": "Archive/Books/Python Crash Course, 3rd Edition by Eric Matthes.pdf",
   "dir": false,
   "size": 8389092,
   "mtime": "2026-10-23T05:55:14+05:00"
  },
  {
-  "path": "Archive/Library/The C Programming Language, Second Edition by Brian W. Kernighan and Dennis M. Ritchie.pdf",
+  "path": "Archive/Books/The C Programming Language, Second Edition by Brian W. Kernighan and Dennis M. Ritchie.pdf",
   "dir": false,
   "size": 21298031,
   "mtime": "2026-10-23T05:50:46+05:00"
  },
  {
-  "path": "Archive/Library/The C++ Programming Language, 4th Edition by Bjarne Stroustrup.pdf",
+  "path": "Archive/Books/The C++ Programming Language, 4th Edition by Bjarne Stroustrup.pdf",
   "dir": false,
   "size": 19674209,
   "mtime": "2026-10-23T05:53:02+05:00"
+ },
+ {
+  "path": "Archive/CLASS SCHEDULE.pdf",
+  "dir": false,
+  "size": 636006,
+  "mtime": "2026-10-08T13:17:22+05:00"
  },
  {
   "path": "Archive/Program Curriculum & Courses Outline.pdf",
