@@ -8,22 +8,26 @@
  {
   "path": "Archive/Books/.gitkeep",
   "dir": false,
-  "size": 0
+  "size": 0,
+  "mtime": "2026-10-23T06:00:37+05:00"
  },
  {
   "path": "Archive/Books/Python Crash Course, 3rd Edition by Eric Matthes.pdf",
   "dir": false,
-  "size": 8389092
+  "size": 8389092,
+  "mtime": "2026-10-23T06:00:37+05:00"
  },
  {
   "path": "Archive/Books/The C Programming Language, Second Edition by Brian W. Kernighan and Dennis M. Ritchie.pdf",
   "dir": false,
-  "size": 21298031
+  "size": 21298031,
+  "mtime": "2026-10-23T06:00:37+05:00"
  },
  {
   "path": "Archive/Books/The C++ Programming Language, 4th Edition by Bjarne Stroustrup.pdf",
   "dir": false,
-  "size": 19674209
+  "size": 19674209,
+  "mtime": "2026-10-23T06:00:37+05:00"
  },
  {
   "path": "Archive/CLASS SCHEDULE.pdf",
@@ -227,13 +231,19 @@
   "path": "Semester 3/CCC-407 Computer Networks/Cheat Sheet 02 | Build and Configure the Network.jpeg",
   "dir": false,
   "size": 309117,
-  "mtime": "2026-10-23T09:03:31.780Z"
+  "mtime": "2026-10-23T14:03:35+05:00"
  },
  {
   "path": "Semester 3/CCC-407 Computer Networks/Cheat Sheets 00 | Computer Networks.pdf",
   "dir": false,
   "size": 1129559,
   "mtime": "2026-10-22T03:47:25+05:00"
+ },
+ {
+  "path": "Semester 3/CCC-407 Computer Networks/Lab Task 01 | Connect 5 PCs with Printer, Switch, Cloud, Router.mp4",
+  "dir": false,
+  "size": 43286118,
+  "mtime": "2026-10-24T16:55:11+05:00"
  },
  {
   "path": "Semester 3/CCC-407 Computer Networks/Lecture 01 | Computer Networks.pdf",
@@ -365,7 +375,7 @@
   "path": "Semester 3/ICP-321 Ideology and Constitution of Pakistan/Two-Nation Theory.pdf",
   "dir": false,
   "size": 32849,
-  "mtime": "2026-10-20T05:55:29+05:00"
+  "mtime": "2026-10-23T06:01:50+05:00"
  },
  {
   "path": "Semester 3/QTR-422 Discrete Structures/.gitkeep",
@@ -413,7 +423,7 @@
   "path": "Semester 3/THQ-II Teaching of Holy Quran II/Course Outline.pdf",
   "dir": false,
   "size": 2930449,
-  "mtime": "2026-10-23T01:06:15.347Z"
+  "mtime": "2026-10-23T06:06:23+05:00"
  },
  {
   "path": "Semester 4/.gitkeep",
