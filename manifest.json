@@ -36,6 +36,12 @@
   "mtime": "2026-10-08T13:17:22+05:00"
  },
  {
+  "path": "Archive/Marks_Sheet_Template_v1.0.docx",
+  "dir": false,
+  "size": 1629657,
+  "mtime": "2026-10-30T13:54:36+05:00"
+ },
+ {
   "path": "Archive/Program Curriculum & Courses Outline.pdf",
   "dir": false,
   "size": 4290203,
@@ -219,7 +225,7 @@
   "path": "Semester 3/CCC-401 Data Structures/Lecture 05 | Queue & Linked List.pdf",
   "dir": false,
   "size": 656136,
-  "mtime": "2026-10-27T23:32:12.067Z"
+  "mtime": "2026-10-28T04:32:16+05:00"
  },
  {
   "path": "Semester 3/CCC-407 Computer Networks/.gitkeep",
@@ -405,7 +411,7 @@
   "path": "Semester 3/QTR-422 Discrete Structures/Lecture 03 | Set Laws: Proofs, Questions & Solutions.pdf",
   "dir": false,
   "size": 380735,
-  "mtime": "2026-10-27T23:35:03.946Z"
+  "mtime": "2026-10-28T04:35:06+05:00"
  },
  {
   "path": "Semester 3/STA-328 Probability and Statistics/.gitkeep",
