@@ -183,7 +183,7 @@
   "path": "Semester 3/BAM-601 Entrepreneurship/Lecture 05 | Opportunity Recognition & Business Ideas.pdf",
   "dir": false,
   "size": 620662,
-  "mtime": "2026-11-02T13:01:23.787Z"
+  "mtime": "2026-11-02T18:01:28+05:00"
  },
  {
   "path": "Semester 3/CCC-401 Data Structures/.gitkeep",
@@ -225,13 +225,13 @@
   "path": "Semester 3/CCC-401 Data Structures/Lecture 06 | Infix, Prefix and Postfix.pdf",
   "dir": false,
   "size": 806062,
-  "mtime": "2026-11-03T14:23:50.213Z"
+  "mtime": "2026-11-03T19:23:53+05:00"
  },
  {
   "path": "Semester 3/CCC-401 Data Structures/Lecture 07 | Linked List in C++.pdf",
   "dir": false,
   "size": 723440,
-  "mtime": "2026-11-11T19:55:30.345Z"
+  "mtime": "2026-11-12T00:55:34+05:00"
  },
  {
   "path": "Semester 3/CCC-407 Computer Networks/.gitkeep",
@@ -402,6 +402,12 @@
   "mtime": "2026-10-08T03:16:12+05:00"
  },
  {
+  "path": "Semester 3/QTR-422 Discrete Structures/Cheat Sheets 00 | Set Laws: Proofs, Questions & Solutions.pdf",
+  "dir": false,
+  "size": 380735,
+  "mtime": "2026-11-11T19:58:17Z"
+ },
+ {
   "path": "Semester 3/QTR-422 Discrete Structures/Lecture 01 | Introduction to Logic and Proofs.pdf",
   "dir": false,
   "size": 268615,
@@ -417,13 +423,7 @@
   "path": "Semester 3/QTR-422 Discrete Structures/Lecture 03 | Combinatorics (Counting).pdf",
   "dir": false,
   "size": 379289,
-  "mtime": "2026-11-11T19:56:42.038Z"
- },
- {
-  "path": "Semester 3/QTR-422 Discrete Structures/Lecture 03 | Set Laws: Proofs, Questions & Solutions.pdf",
-  "dir": false,
-  "size": 380735,
-  "mtime": "2026-10-28T04:35:06+05:00"
+  "mtime": "2026-11-12T00:56:44+05:00"
  },
  {
   "path": "Semester 3/STA-328 Probability and Statistics/.gitkeep",
